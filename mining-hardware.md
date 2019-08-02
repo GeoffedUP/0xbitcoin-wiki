@@ -15,8 +15,3 @@
 * The algorithm used for 0xBitcoin and Alt-Token mining uses the faster memories in a GPU core instead of Video Memory. As a result, it is advisable to underclock the Memory, which will save a little power, reduce memory temperature and sometimes enable the GPU core to hit higher clock speeds with stability. A card's Power Limit and Core Voltage can be tweaked to attain the best efficiency for individual cards.
 
     *~Pascal cards (like GTX 10x0) are generally more temperature-sensitive when overclocked. Reducing Core temperature can often stabilize higher overclocks better than adding voltage can. Maxwell-Gen2 cards (like GTX 9xx) can usually be overclocked further at higher temperatures.*
-
-    &nbsp;
-    <div align="right">
-       <b><a href="#top">↥ back to top</a></b>
-    </div>
