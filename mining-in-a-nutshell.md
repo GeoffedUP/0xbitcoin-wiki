@@ -2,7 +2,7 @@
 
 0xBitcoin is a Smart Contract on the Ethereum network, and the concept of Token Mining is patterned after Bitcoin's distribution. Rather than solving 'blocks', work is issued by the contract, which also maintains a Difficulty which goes up or down depending on how often a Reward is issued. Miners can put their hardware to work to claim these rewards, in concert with specialized software, working either by themselves or together as a Pool. The total lifetime supply of 0xBitcoin is `21,000,000` tokens and rewards will repeatedly halve over time.
 
-The 0xBitcoin contract was deployed by Infernal_Toast at Ethereum address: [0xb6ed7644c69416d67b522e20bc294a9a9b405b31](https://etherscan.io/address/0xb6ed7644c69416d67b522e20bc294a9a9b405b31){:target="_blank"}
+The 0xBitcoin contract was deployed by Infernal_Toast at Ethereum address: [0xb6ed7644c69416d67b522e20bc294a9a9b405b31](https://etherscan.io/address/0xb6ed7644c69416d67b522e20bc294a9a9b405b31)
 
 *  **MINING IN MORE DETAIL (Gee-Whiz Info)**
 
@@ -17,7 +17,7 @@ A Retarget happens every `1024` rewards. In short, the Contract tries to target 
  `~13.9 seconds \* 60 = 13.9 minutes`
 
 If the average Reward Time is longer than that, the difficulty will decrease. If it's shorter, it will increase. How much longer or shorter it was affects the magnitude with which the difficulty will rise/drop, to a maximum of 50%.
-* *[Click Here](https://0x1d00ffff.github.io/0xBTC-Stats/){:target="_blank"} to visit the stats page~ (https://0x1d00ffff.github.io/0xBTC-Stats) to see recent stats and block times, feel free to ask questions about it if you need help understanding it.*
+* *[Click Here](https://0x1d00ffff.github.io/0xBTC-Stats/) to visit the stats page~ (https://0x1d00ffff.github.io/0xBTC-Stats) to see recent stats and block times, feel free to ask questions about it if you need help understanding it.*
 
 &nbsp;
 <div align="right">
