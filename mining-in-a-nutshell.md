@@ -18,8 +18,3 @@ A Retarget happens every `1024` rewards. In short, the Contract tries to target 
 
 If the average Reward Time is longer than that, the difficulty will decrease. If it's shorter, it will increase. How much longer or shorter it was affects the magnitude with which the difficulty will rise/drop, to a maximum of 50%.
 * *[Click Here](https://0x1d00ffff.github.io/0xBTC-Stats/) to visit the stats page~ (https://0x1d00ffff.github.io/0xBTC-Stats) to see recent stats and block times, feel free to ask questions about it if you need help understanding it.*
-
-&nbsp;
-<div align="right">
-   <b><a href="#top">↥ back to top</a></b>
-</div>
