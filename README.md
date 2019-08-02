@@ -1,2 +1,2 @@
 # 0xbitcoin-wiki
-0xBTC.wiki pages, submit a pull request to edit or add content. Pages written in markdown.
+0xBTC.wiki pages written in markdown. Submit a pull request to edit/add content.
