@@ -1,9 +1,9 @@
-# 0xbitcoin-wiki
-[0xBTC.wiki](https://0xbtc.wiki) content is written in markdown. Submit a pull request to edit/add content.
+# [0xBTC.wiki](https://0xbtc.wiki)
+The [wiki](https://0xbtc.wiki) content is written in markdown. Submit a pull request to edit/add content.
 
 ## How to Contribute?
 
-Go to your ``filename.md`` or create a new markdown file and click on the 🖋 (pen) icon in the upper right corner. Make your
+Go to your ``filename.md`` or create a new markdown file in the ``/categories`` folder and click on the 🖋 (pen) icon in the upper right corner. Make your
 changes to the file and follow the instructions at the bottom to create a pull request.
 
 ###  All pages use Markdown, here's a (cheat sheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)) so be sure to use `.md` as the extension when creating the page file.
