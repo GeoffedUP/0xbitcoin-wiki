@@ -3,8 +3,12 @@
 
 ## How to Contribute?
 
-Go to [example.md](example.md) and click on the 🖋 (pen) icon in the upper right corner. Make your
+Go to your ``filename.md`` or create a new markdown file and click on the 🖋 (pen) icon in the upper right corner. Make your
 changes to the file and follow the instructions at the bottom to create a pull request.
+
+###  All pages use Markdown, here's a (cheat sheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)) so be sure to use `.md` as the extension when creating the page file.
+
+### CLICK [Here](example.md) for an example of what a fully-fledged page looks like.
 
 There are also some basic guidelines that need to be followed when contributing to 0xBTC.wiki:
 
