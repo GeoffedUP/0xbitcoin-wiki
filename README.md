@@ -19,7 +19,5 @@ There are also some basic guidelines that need to be followed when contributing 
 
 If you want to contribute regularly or have commit permissions to help, ping me in the [0xBitcoin Discord](https://discord.gg/JGEqqmS) and we'll figure it out.
 
-```
-- [Meaningful title or short description](https://example.com/path/file)
-```
+
 **DISCLAIMER: 0xBTC.wiki is a completely independent and open-source initiative founded by 0xBitcoin community members. Nothing contained in this Github repository and the website should be considered financial or investment advice - it is for informational purposes only.**
