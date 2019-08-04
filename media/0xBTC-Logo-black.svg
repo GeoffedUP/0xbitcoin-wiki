@@ -1,0 +1,32 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 935 935">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #000;
+      }
+
+      .cls-1, .cls-3 {
+        stroke-width: 10px;
+      }
+
+      .cls-2 {
+        stroke-width: 18px;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <title>0xBTC-Logo-black</title>
+  <g id="layer1">
+    <circle id="path3717-3" class="cls-1" cx="462.76" cy="468.5" r="444.93"/>
+    <path id="path3713" class="cls-2" d="M383.29,773.86C365,767.77,273.66,437.64,281.92,407.45S531.76,158,550.07,164.13,659.7,500.35,651.44,530.54,401.62,780,383.29,773.86Z"/>
+    <circle id="path3717" class="cls-3" cx="462.76" cy="468.62" r="407.5"/>
+  </g>
+</svg>
