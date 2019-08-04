@@ -1,5 +1,5 @@
 # 0xbitcoin-wiki
-0xBTC.wiki pages written in markdown. Submit a pull request to edit/add content.
+[0xBTC.wiki](https://0xbtc.wiki) content is written in markdown. Submit a pull request to edit/add content.
 
 ## How to Contribute?
 
